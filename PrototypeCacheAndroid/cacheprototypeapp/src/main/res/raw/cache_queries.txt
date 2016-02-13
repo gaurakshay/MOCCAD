@@ -1,0 +1,10 @@
+SELECT * FROM exp_table WHERE id <= 94256;
+SELECT * FROM exp_table WHERE id > 166258;
+SELECT * FROM exp_table WHERE intattr1 > 9554;
+SELECT * FROM exp_table WHERE intattr1 <= 2326;
+SELECT * FROM exp_table WHERE intattr2 <= 4465;
+SELECT * FROM exp_table WHERE intattr2 >= 42640;
+SELECT * FROM exp_table WHERE intattr3 > 75414;
+SELECT * FROM exp_table WHERE intattr3 < 15564;
+SELECT * FROM exp_table WHERE intattr1 = 4322;
+SELECT * FROM exp_table WHERE intattr2 = 20484;

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="predicate_types">
+        <item>@string/XopCPredicate</item>
+        <item>@string/XopYPredicate</item>
+    </array>
+    <array name="operators">
+        <item>&lt;=</item>
+        <item>&lt;</item>
+        <item>=</item>
+        <item>&gt;</item>
+        <item>&gt;=</item>
+    </array>
+</resources>
